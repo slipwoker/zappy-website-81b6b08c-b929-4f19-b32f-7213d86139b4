@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הזמן טיסות, חבילות נופש ועוד בקלות ובמהירות! אובליגו מציעה חווית הזמנה מקוונת חלקה לכל יעד בעולם. קנה עכשיו ותתחיל לחלום!
+
+### תכנון טיול
+https://example.com/travel-planning
+מתכנן טיול חכם שמתאים בדיוק לצרכיך! גלה יעדים מרהיבים, השווה חבילות expedia vacation packages ובנה מסלול חלומות אישי. התחל לתכנן היום!
+
+### אודות
+https://example.com/about
+אובליגו נולדה מתוך אהבה לתיירות ולפנאי. גלה מי אנחנו, מה מניע אותנו ולמה אלפי מטיילים בוחרים בנו לתכנון united airlines reservations וחבילות נופש מנצחות.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על emirates flight booking או רוצה לתכנן חופשה בהתאמה אישית? צוות המומחים שלנו זמין עבורך עכשיו. פנה אלינו ונהפוך את החלום למציאות!
+
+### Products
+https://example.com/products
+המוצרים שלנו - אובליגו שירותי ייעוץ לתיירות ופנאי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אובליגו שירותי ייעוץ לתיירות ופנאי
+
+### Category
+https://example.com/category/:slug
+מוצרים - אובליגו שירותי ייעוץ לתיירות ופנאי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
